@@ -12,8 +12,13 @@ sankey_chart.container("container_count");//initiating drawing the Sankey diagra
 
 
 
+
 // configure a custom color palette
 sankey_chart.palette([
+  '#bada55',
+  '#e6bf98',
+  '#ff8cae',
+  '#ff9f22',
   "#F44336",
   "#E91E63",
   "#9C27B0",
